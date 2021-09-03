@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace blugin\template\virion;
+namespace authorname\virionname;
 
 final class Main{
 }

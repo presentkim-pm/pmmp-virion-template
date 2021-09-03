@@ -1,8 +1,8 @@
 ---
-name: Template
-antigen: blugin\template\virion
+name: VirionName
+antigen: authorname\virionname
 version: 0.1.0
 api: 4.0.0
 author: AuthorName
-description: Template of Pocketmine-MP virion
+description: Description of Virion
 ...
